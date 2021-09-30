@@ -5,7 +5,7 @@
 //  Created by Noam Tamim on 29/05/2019.
 //
 
-import Foundation
+import UIKit
 
 public class UserAgent {
     
